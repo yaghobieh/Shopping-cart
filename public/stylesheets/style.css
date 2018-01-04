@@ -1,0 +1,22 @@
+.thumbnail {
+    margin-bottom: 2rem;
+    min-height: 350px;
+    max-height: 350px;
+}
+
+.thumbnail img {
+    max-height: 170px;
+}
+
+.thumbnail .description {
+    color: #7f7f7f;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.badge-warning {
+    background-color: #f89406;
+}
