@@ -1,6 +1,6 @@
 # <h1>Shopping cart + Auth + Payment methid 
 # <h3> Build with Nodejs
-# Just Clone and use
+# <h4> Just Clone for using
 
 First run:
 
