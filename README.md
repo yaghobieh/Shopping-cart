@@ -1,4 +1,6 @@
-NodeJs and HBS shopping cart:
+# <h1>Shopping cart + Auth + Payment methid 
+# <h3> Build with Nodejs
+# Just Clone and use
 
 First run:
 
